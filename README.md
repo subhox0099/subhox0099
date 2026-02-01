@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subhox0099
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning javascript to the core
+- 🌱 I’m currently learning java to the Advance
 - 📫 reach me on subhojeetchatterjee0248@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I’m not just a programming enthusiast—I also love diving into memes to find the perfect one to describe my coding struggles!"
