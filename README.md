@@ -6,10 +6,10 @@
 <div align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=JAVA+DEVELOPER+%7C+SPRING+FRAMEWORKS+%7C+FROM+INDIA" alt="Typing SVG" />
 </div>
-<div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
+<div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
 <img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasami&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhox0099&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="subhox0099" /> </p>
 
 - 🔭 I’m currently Studying in **Shri Ramswaroop Memorial University**
 
@@ -80,12 +80,12 @@
 
 <p align="center">
  <br/>
-<a href="https://github.com/subhox0099"><img align="center" width ="%" src="https://img.shields.io/github/followers/muhammadtalhasami?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
+<a href="https://github.com/subhox0099"><img align="center" width ="%" src="https://img.shields.io/github/followers/subhox0099?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=subhox0099&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="subhox0099" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subhox0099&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="subhox0099" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" " alt="muhammadtalhasami" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhox0099&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" alt="subhox0099" /></p>
 
 <a href="https://github.com/subhox0099">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
@@ -106,11 +106,11 @@
 </a>
 <br><br>
 
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/subhox0099) </br>
-![3D Contributions Graph](https://github.com/subhox0099/muhammadtalhasami/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=subhox0099&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/subhox0099) </br>
+![3D Contributions Graph](https://github.com/subhox0099/subhox0099/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadtalhasami&theme=algolia" alt="arhamhashmi01" />
+    <img src="https://github-profile-trophy.vercel.app/?username=subhox0099&theme=algolia" alt="arhamhashmi01" />
   </a>
 </p>
 <br><br>
@@ -136,11 +136,11 @@
 
 <p align="center">
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadtalhasami&theme=algolia" width="100%" /> </br></br>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=subhox0099&theme=algolia" width="100%" /> </br></br>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadtalhasami&theme=algolia" width="31%" align="left"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadtalhasami&theme=algolia" width="31%" align="right" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadtalhasami&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=subhox0099&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=subhox0099&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=subhox0099&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
 </br></br>
  </a>
 
@@ -166,7 +166,7 @@
 <br><br>
 
 
-![City Theme](https://github.com/subhox0099/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+![City Theme](https://github.com/subhox0099/subhox0099/blob/main/Images/citytheme.gif?raw=true)
 
 [![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
 
@@ -174,7 +174,7 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
-![MuhammadTalhasami_snake_contribution](https://github.com/subhox0099/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
+![subhox0099_snake_contribution](https://github.com/subhox0099/subhox0099/raw/main/dist/github-snake-dark.svg)
 
 </br></br>
 <a href="https://github.com/subhox0099">
@@ -196,10 +196,10 @@
 </a>
 <br><br>
 
-[![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/Football_management_system)
-[![Muhammad Talha Sami Github readme](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=muhammadtalhasami&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/muhammadtalhasami)
-[![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/RV32I_Single_Cycle)
-[![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/sv_verilator)
+[![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/Football_management_system)
+[![Muhammad Talha Sami Github readme](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=subhox0099&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/subhox0099)
+[![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/RV32I_Single_Cycle)
+[![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/sv_verilator)
 
 <p align="left">
   <a href="https://github.com/subhox0099?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
