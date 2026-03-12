@@ -106,13 +106,7 @@
 </a>
 <br><br>
 
-[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=subhox0099&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/subhox0099) </br>
-![3D Contributions Graph](https://github.com/subhox0099/subhox0099/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=subhox0099&theme=algolia" alt="arhamhashmi01" />
-  </a>
-</p>
+
 <br><br>
 
 
@@ -174,16 +168,16 @@
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
 
-![subhox0099_snake_contribution](https://github.com/subhox0099/subhox0099/raw/main/dist/github-snake-dark.svg)
+![subhox0099_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
 
 </br></br>
-<a href="https://github.com/subhox0099">
+<a href="https://github.com/muhammadtalhasami">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
 
 <h3 align="center">
- <a href="https://github.com/subhox0099">
+ <a href="https://github.com/muhammadtalhasami">
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/subhox0099">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
