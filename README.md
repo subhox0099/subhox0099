@@ -37,6 +37,7 @@
 </a>
 <br><br>
 <a href="www.linkedin.com/in/subhojit-chatterjee1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subhojit-chatterjee1509" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/subhojit-chatterjee1509" target="blank"><img align="center" src="https://w7.pngwing.com/pngs/722/1011/png-transparent-logo-icon-instagram-logo-instagram-logo-purple-violet-text-thumbnail.png" alt="www.linkedin.com/in/subhojit-chatterjee1509" height="30" width="40" /></a>
 </p>
 
 
