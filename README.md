@@ -181,20 +181,7 @@
 <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
     </a> <a href="https://github.com/subhox0099">
   <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
-   </a> 【﻿P O P U L A R_R E P O】 
-
-</h3>
-
-<a href="https://github.com/subhox0099">
-<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
-</a>
-<br><br>
-
-[![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/Football_management_system)
-[![Muhammad Talha Sami Github readme](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=subhox0099&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/subhox0099)
-[![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/RV32I_Single_Cycle)
-[![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=subhox0099&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/sv_verilator)
-
+  
 <p align="left">
   <a href="https://github.com/subhox0099?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
