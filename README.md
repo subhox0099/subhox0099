@@ -1,11 +1,210 @@
-- 👋 Hi, I’m @subhox0099
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning java to the Advance
-- 📫 reach me on subhojeetchatterjee0248@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I’m not just a programming enthusiast—I also love diving into memes to find the perfect one to describe my coding struggles!"
+![logo]()
 
-<!---
-subhox0099/subhox0099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+<h1 align="center">Hi 👋, I'mSubhojit Chatterjee</h1>
+<div align='center'>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=RISC-V+ENTHUSIAST+%7C+RTL-DESIGNER+%7C+FROM+PAK" alt="Typing SVG" />
+</div>
+<div align='center': style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="59" height="59" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="59" height="59" /></div>
+<img align="right" alt="micro chip" width="350" src="https://clipart-library.com/img/2091643.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadtalhasami&label=Profile%20views&labelColor=01102d&icon_color=%2341C350&style=flat" alt="muhammadtalhasami" /> </p>
+
+- 🔭 I’m currently Studying in **Shri Ramswaroop Memorial University**
+
+- 🌱 I’m currently learning **SpringBoot && Advanced Java**
+
+- 👨‍💻 All of my projects are available on at [https://github.com/subhox0099](https://github.com/subhox0099)
+
+- 📫 How to reach me **subhojeetchatterjee0248@gmail.com**
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/subhox0099">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/subhox0099">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿C O N N E C T】 
+
+</h3>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+<a href="www.linkedin.com/in/subhojit-chatterjee1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/subhojit-chatterjee1509" height="30" width="40" /></a>
+</p>
+
+
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/subhox0099">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/subhox0099">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿S K I L L S】 
+
+</h3>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/subhox0099">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/subhox0099">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿S T A T S】 
+
+</h3>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+
+<p align="center">
+ <br/>
+<a href="https://github.com/subhox0099"><img align="center" width ="%" src="https://img.shields.io/github/followers/muhammadtalhasami?logo=github&logoColor=41c350&labelColor=01102d&color=blue&style=for-the-badge"></a>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia"  alt="muhammadtalhasami" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadtalhasami&show_icons=true&line_height=30&rank_icon=github&show=discussions_answered&theme=algolia" " alt="muhammadtalhasami" /></p>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+  <a href="https://github.com/subhox0099">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
+  </a> 
+  <a href="https://github.com/subhox0099">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
+  </a> 
+  【﻿G R A P H】 
+</h3>
+
+<a href="https://github.com/subhox0099">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+<br><br>
+
+[![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=muhammadtalhasami&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/subhox0099) </br>
+![3D Contributions Graph](https://github.com/subhox0099/muhammadtalhasami/raw/main/profile-3d-contrib/profile-night-rainbow.svg)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=muhammadtalhasami&theme=algolia" alt="arhamhashmi01" />
+  </a>
+</p>
+<br><br>
+
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<h3 align="center">
+  <a href="https://github.com/subhox0099">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left"/>
+  </a>
+  <a href="https://github.com/subhox0099">
+    <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right"/>
+  </a> 
+  【﻿R E P O_A C T I V I T Y】 
+</h3>
+
+<a href="https://github.com/subhox0099">
+  <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"/>
+</a>
+
+<p align="center">
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammadtalhasami&theme=algolia" width="100%" /> </br></br>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammadtalhasami&theme=algolia" width="31%" align="left"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammadtalhasami&theme=algolia" width="31%" align="right" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammadtalhasami&theme=algolia" width="31%" align="center" title="🦉 Night owl" />  
+</br></br>
+ </a>
+
+![Alt](https://repobeats.axiom.co/api/embed/26cecbfb77b0e3ec7a2819b09e98c0abd59d324f.svg "Repobeats analytics image")
+
+</br></br>
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+<h3 align="center">
+ <a href="https://github.com/subhox0099">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/subhox0099">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿Q U O T E S】 
+
+</h3>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+
+
+![City Theme](https://github.com/subhox0099/muhammadtalhasami/blob/main/Images/citytheme.gif?raw=true)
+
+[![Refresh to see another quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+
+![MuhammadTalhasami_snake_contribution](https://github.com/subhox0099/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
+
+</br></br>
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+
+
+<h3 align="center">
+ <a href="https://github.com/subhox0099">
+<img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="left" /> 
+    </a> <a href="https://github.com/subhox0099">
+  <img src="https://img1.picmix.com/output/stamp/original/9/8/7/3/473789_94059.gif" width="22" height="22" align="right" />
+   </a> 【﻿P O P U L A R_R E P O】 
+
+</h3>
+
+<a href="https://github.com/subhox0099">
+<img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
+</a>
+<br><br>
+
+[![Football Management System](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=Football_management_system&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/Football_management_system)
+[![Muhammad Talha Sami Github readme](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=muhammadtalhasami&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/muhammadtalhasami)
+[![RV32I Single Cycle](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=RV32I_Single_Cycle&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/RV32I_Single_Cycle)
+[![SV Verilator](https://github-readme-stats.vercel.app/api/pin/?username=muhammadtalhasami&repo=sv_verilator&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=58A6FF&border_color=007eff)](https://github.com/subhox0099/sv_verilator)
+
+<p align="left">
+  <a href="https://github.com/subhox0099?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
+</p>
+
+<br/>
+<hr/>
+<br/>
