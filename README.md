@@ -172,7 +172,7 @@
 ![subhox0099_snake_contribution](https://github.com/muhammadtalhasami/muhammadtalhasami/raw/main/dist/github-snake-dark.svg)
 
 </br></br>
-<a href="https://github.com/muhammadtalhasami">
+<a href="https://github.com/subhox0099">
 <img src="https://media.tenor.com/zhIZszouG8QAAAAi/line-divider.gif" width="100%" height="2px"  />
 </a>
 
