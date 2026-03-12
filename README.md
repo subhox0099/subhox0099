@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'mSubhojit Chatterjee</h1>
+<h1 align="center">Hi 👋, I'm Subhojit Chatterjee</h1>
 <div align='center'>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=F7F7F7&width=420&lines=JAVA+DEVELOPER+%7C+SPRING+FRAMEWORKS+%7C+FROM+INDIA" alt="Typing SVG" />
 </div>
